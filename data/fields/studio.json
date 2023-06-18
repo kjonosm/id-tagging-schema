@@ -1,5 +1,13 @@
 {
     "key": "studio",
     "type": "combo",
-    "label": "Type"
+    "label": "Type",
+    "strings": {
+        "options": {
+            "audio": "Audio Studio",
+            "radio": "Radio Studio",
+            "television": "Television Studio",
+            "video": "Video Studio"
+        }
+    },
 }
